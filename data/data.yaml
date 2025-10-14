@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Fase6/data/train/images
+val: /content/drive/MyDrive/Fase6/data/val/images
+test: /content/drive/MyDrive/Fase6/data/test/images
+
+nc: 2
+names: ['keyboard', 'mouse']
