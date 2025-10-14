@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Fase6/data
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: keyboard
+  1: mouse
