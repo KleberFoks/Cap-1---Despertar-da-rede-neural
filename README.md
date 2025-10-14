@@ -115,7 +115,7 @@ Neste projeto, foi desenvolvido um **sistema de visão computacional** capaz de 
 👉 [INSIRA O LINK AQUI]
 
 📓 **Notebook no Google Colab:**  
-👉 [INSIRA O LINK AQUI]
+👉 [Abrir no Colab](https://colab.research.google.com/github/KleberFoks/Cap-1---Despertar-da-rede-neural/blob/main/KleberFoks_rm562225_pbl_fase6.ipynb)
 
 ---
 
