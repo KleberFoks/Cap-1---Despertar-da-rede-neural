@@ -111,8 +111,8 @@ Neste projeto, foi desenvolvido um **sistema de visão computacional** capaz de 
 
 ## 🎥 Demonstração
 
-📹 **Vídeo (YouTube - Não Listado):**  
-👉 [INSIRA O LINK AQUI]
+📹 **Vídeo (YouTube):**  
+👉 [Link pro vídeo: ](https://youtu.be/uihRB9A8-Hw)]
 
 📓 **Notebook no Google Colab:**  
 👉 [Abrir no Colab](https://colab.research.google.com/github/KleberFoks/Cap-1---Despertar-da-rede-neural/blob/main/KleberFoks_rm562225_pbl_fase6.ipynb)
